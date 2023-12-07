@@ -1,0 +1,13 @@
+Hello.
+
+
+My thesis is completed in Libreoffice Writer. The file format is ODT, which is interoperable with Microsoft Word. However, some versions of word handle images and text differently, and so ODT can display incorrectly. 
+
+For redundancy, I have also included a PDF version of my thesis and summary paper.  
+
+File structure:
+> Design Diagrams : the schematics used in my report. 
+> Report figures : Plots of the results used in my report. 
+> Summary Paper : 8 page IEEE summary paper. 
+> Thesis : Thesis submission (PDF and ODT).
+> MATLAB_CODE.zip : Complete MATLAB code for simulations.
