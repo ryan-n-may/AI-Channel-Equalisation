@@ -16,7 +16,7 @@ The LSTM cell is theoretically modelled as follows:
 
 ![lstm](https://github.com/ryan-n-may/AI-Channel-Equalisation/blob/main/Submission/Design%20Diagrams/LSTM_CELL.png)
 
-## The Demoiser:
+## The Denoiser:
 The purpose of the denoiser is to use a series of CNN layers, average pooling layers, and ReLU layers to remove of AWGN from the recieved signal.  The recieved signal is over-sampled.  The noise classification layer identifies noise in the received signal, and the denoiser layer removes noise from the recieved signal if noise is detected.
 
 ![denoiser](https://github.com/ryan-n-may/AI-Channel-Equalisation/blob/main/Submission/Design%20Diagrams/DENOISER_MODEL.png)
